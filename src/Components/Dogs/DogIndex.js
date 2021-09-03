@@ -26,7 +26,7 @@ class DogFetch extends Component {
                 <div>
                     <img src={this.state.imageUrl} />
                 </div>
-                <button onClick={this.fetchDog}>Can we get more puppers!</button>
+                <button onClick={this.fetchDog}>PUPPERS!</button>
             </div>
         )
     }
